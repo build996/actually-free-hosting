@@ -1,0 +1,27 @@
+{
+  "updated": "2026-07",
+  "note": "Free hosting tiers change often (Railway, Fly.io cut free allowances). Qualitative where terms move; confirm against the linked guide.",
+  "categories": {
+    "compute_vps": [
+      { "platform": "Oracle Cloud Always Free", "free": "up to 4 ARM cores + 24 GB RAM, 2 AMD micro VMs, 200 GB storage", "sleeps": false, "expires": false, "note": "idle instances can be reclaimed unless account is upgraded to paid", "guide": "https://toolfreebie.com/oracle-free-arm-vps/" }
+    ],
+    "paas": [
+      { "platform": "Render", "free": "web services + static sites", "sleeps": true, "expires": false, "note": "web services spin down after ~15 min idle; static sites don't", "guide": "https://toolfreebie.com/render-hosting-review/" },
+      { "platform": "Coolify", "free": "self-hosted open-source PaaS on your own server", "sleeps": false, "expires": false, "note": "free = you run it; pairs perfectly with Oracle Always Free", "guide": "https://toolfreebie.com/coolify-self-hosted-paas/" },
+      { "platform": "Railway", "free": "trial credit then usage-based", "sleeps": null, "expires": true, "note": "old free tier removed; now a limited trial", "guide": "https://toolfreebie.com/railway-heroku-alternative/" }
+    ],
+    "frontend_static": [
+      { "platform": "Cloudflare Pages", "free": "unlimited requests & bandwidth, 500 builds/mo", "sleeps": false, "note": "most generous; build minutes are the only real cap", "guide": "https://toolfreebie.com/vercel-netlify-cloudflare/" },
+      { "platform": "Netlify", "free": "100 GB bandwidth, 300 build min/mo", "sleeps": false, "note": "bandwidth cap on busy sites", "guide": "https://toolfreebie.com/vercel-netlify-cloudflare/" },
+      { "platform": "Vercel", "free": "Hobby tier, edge network", "sleeps": false, "note": "Hobby is non-commercial only", "guide": "https://toolfreebie.com/vercel-netlify-cloudflare/" }
+    ],
+    "database_backend": [
+      { "platform": "Turso", "free": "9 GB across 500 SQLite DBs, 1B row reads/mo", "sleeps": false, "expires": false, "guide": "https://toolfreebie.com/turso-free-sqlite-database/" },
+      { "platform": "Supabase", "free": "500 MB Postgres, auth, storage", "sleeps": true, "expires": false, "note": "pauses after ~1 week inactivity", "guide": "https://toolfreebie.com/supabase-vs-neon/" },
+      { "platform": "Neon", "free": "serverless Postgres, scale-to-zero", "sleeps": true, "expires": false, "note": "autosuspends, resumes on query", "guide": "https://toolfreebie.com/supabase-vs-neon/" },
+      { "platform": "Upstash", "free": "serverless Redis / vector, pay-per-use free allowance", "sleeps": false, "expires": false, "guide": "https://toolfreebie.com/upstash-serverless-redis/" },
+      { "platform": "PocketBase", "free": "whole backend in one file, self-hosted", "sleeps": false, "expires": false, "guide": "https://toolfreebie.com/pocketbase-free-backend/" },
+      { "platform": "Appwrite", "free": "open-source Firebase alternative, self-host or cloud free tier", "sleeps": false, "expires": false, "guide": "https://toolfreebie.com/appwrite-firebase-alternative/" }
+    ]
+  }
+}
