@@ -1,6 +1,6 @@
-# Free Hosting List
+# Actually Free Hosting
 
-A maintained list of genuinely free hosting — and, just as important, **which "free" tiers sleep, throttle, or expire on you.**
+A maintained list of hosting that is **actually free** — not "free trial credit" free — and, just as important, **which "free" tiers sleep, throttle, or expire on you.**
 
 Every "free hosting" list tells you a platform has a free tier. Almost none tell you the two things that actually decide whether your project stays up:
 
