@@ -75,6 +75,20 @@ If you want free-forever hosting with **no sleep and no expiry**, stop hunting f
 
 Full walkthrough: **[Best Free Hosting 2026](https://toolfreebie.com/best-free-hosting-2026/)**
 
+---
+
+## Related lists
+
+Part of a small set of measured, regularly re-checked references:
+
+| Repo | Covers |
+|---|---|
+| **[awesome-free-ai-apis](https://github.com/build996/awesome-free-ai-apis)** | The AI APIs you'd run on this hosting — real limits, catches, licensing traps |
+| **[free-ai-api-benchmark](https://github.com/build996/free-ai-api-benchmark)** | Measured speed and quotas for those APIs, re-run weekly |
+| **[free-host-speedtest](https://github.com/build996/free-host-speedtest)** | A page for measuring free hosting speed yourself |
+
+The same question drives all of them: **is it actually free, and does it actually work?** Free tiers collapsed across the board in 2026 — several AI APIs that were card-free last year now demand payment — so every entry gets re-checked rather than copied forward.
+
 ## Contributing
 
 Spotted a tier that changed, started sleeping, or died? PRs welcome — see [CONTRIBUTING.md](CONTRIBUTING.md). Link the provider's own docs, and keep the **Sleeps? / Expires?** columns honest.
