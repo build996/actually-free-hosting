@@ -40,6 +40,7 @@ This repo puts those columns front and center. Each row links to a hands-on guid
 | **Cloudflare Pages** | Unlimited requests & bandwidth, 500 builds/mo | **No** | Most generous; build minutes are the only real cap | [Guide](https://toolfreebie.com/vercel-netlify-cloudflare/) |
 | **Netlify** | 100 GB bandwidth, 300 build min/mo | **No** | Bandwidth cap on busy sites | [Guide](https://toolfreebie.com/vercel-netlify-cloudflare/) |
 | **Vercel** | Hobby tier, fast global edge | **No** | **Hobby is non-commercial only** — a real gotcha for monetized sites | [Guide](https://toolfreebie.com/vercel-netlify-cloudflare/) |
+| **Shipvela** | $0 Hobby: 3 static projects, 20 publishes/month, custom domains and managed HTTPS | Not documented | Account required; static sites only; domain registration is separate | [Pricing](https://shipvela.com/#pricing) · [Docs](https://shipvela.com/docs) |
 
 ## Traditional / PHP shared hosting
 
