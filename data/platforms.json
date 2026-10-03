@@ -13,7 +13,8 @@
     "frontend_static": [
       { "platform": "Cloudflare Pages", "free": "unlimited requests & bandwidth, 500 builds/mo", "sleeps": false, "note": "most generous; build minutes are the only real cap", "guide": "https://toolfreebie.com/vercel-netlify-cloudflare/" },
       { "platform": "Netlify", "free": "100 GB bandwidth, 300 build min/mo", "sleeps": false, "note": "bandwidth cap on busy sites", "guide": "https://toolfreebie.com/vercel-netlify-cloudflare/" },
-      { "platform": "Vercel", "free": "Hobby tier, edge network", "sleeps": false, "note": "Hobby is non-commercial only", "guide": "https://toolfreebie.com/vercel-netlify-cloudflare/" }
+      { "platform": "Vercel", "free": "Hobby tier, edge network", "sleeps": false, "note": "Hobby is non-commercial only", "guide": "https://toolfreebie.com/vercel-netlify-cloudflare/" },
+      { "platform": "Shipvela", "free": "$0 Hobby: 3 static projects, 20 publishes/month, custom domains and managed HTTPS", "sleeps": null, "note": "Account required; static sites only; domain registration is separate. No inactivity-sleep guarantee or trial end date advertised.", "guide": "https://shipvela.com/#pricing" }
     ],
     "database_backend": [
       { "platform": "Turso", "free": "9 GB across 500 SQLite DBs, 1B row reads/mo", "sleeps": false, "expires": false, "guide": "https://toolfreebie.com/turso-free-sqlite-database/" },
